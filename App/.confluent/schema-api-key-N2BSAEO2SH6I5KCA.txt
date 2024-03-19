@@ -1,0 +1,7 @@
+=== Confluent Cloud API key: lsrc-05j03p ===
+
+API key:
+N2BSAEO2SH6I5KCA
+
+API secret:
+kDjxONmlpc8OeKaZf3bQ816ImLsnNA79vLtGL2FtQ2QJybhEU9QvEoXf20JRbBzu
