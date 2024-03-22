@@ -51,7 +51,7 @@ data = [Temperature('London', 12, 'C', round(time.time()*1000)),
 
 def delivery_report(err, event):
     if err:
-        print(f'Delivery failed for event: {event.key().decode("utf-8")}: {event.value().decode("utf-8")}: {err}')
+        print(f'Delivery failed for event: {event.key().decode("utf-8")}  {err}')
     else:
         print(f'Temp reading for {event.key().decode("utf-8")} successfully sent to topic {event.topic()}.')
 
